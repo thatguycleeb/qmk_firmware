@@ -1,0 +1,1 @@
+#include "bitfocusmacropad.h"
